@@ -67,7 +67,7 @@ From the analysis, the answers to given questions are:
 ![image](https://user-images.githubusercontent.com/83577938/133283894-6efafd0a-75f7-477f-8604-7034610ca94b.png)
 
 
-**Q.8 Which sport is having most female Gold Medalists? (Top 5) **
+**Q.8 Which sport is having most female Gold Medalists? (Top 5)**
 
 *Ans.*
 
